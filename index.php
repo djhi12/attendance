@@ -1,14 +1,8 @@
-<!DOCTYPE html>
-<html lang="en">
+<!-- Header -->
+<?php require_once 'includes/header.php' ?>
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
+<!-- Main Content -->
+<h1>Hello, world!</h1>
 
-<body>
-    <h1></h1>
-</body>
-
-</html>
+<!-- Footer -->
+<?php require_once 'includes/footer.php' ?>
