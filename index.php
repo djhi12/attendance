@@ -1,6 +1,6 @@
 <!-- Header -->
 <?php
-
+$title = 'Index';
 require_once 'includes/header.php'
 
 ?>
