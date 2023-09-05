@@ -1,8 +1,20 @@
 <!-- Header -->
-<?php require_once 'includes/header.php' ?>
+<?php
+
+require_once 'includes/header.php'
+
+?>
+
 
 <!-- Main Content -->
-<h1>Hello, world!</h1>
+<div class="container">
+    <h1>Hello, world!</h1>
+</div>
+
 
 <!-- Footer -->
-<?php require_once 'includes/footer.php' ?>
+<?php
+
+require_once 'includes/footer.php'
+
+?>
