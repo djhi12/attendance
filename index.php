@@ -1,7 +1,7 @@
 <!-- Header -->
 <?php
 $title = 'Index';
-require_once 'includes/header.php'
+require_once 'includes/header.php';
 
 ?>
 
@@ -12,7 +12,7 @@ require_once 'includes/header.php'
 
     <!-- Form -->
     <?php
-    require 'includes/form.php'
+    require 'includes/form.php';
 
     ?>
 </div>
@@ -21,6 +21,6 @@ require_once 'includes/header.php'
 <!-- Footer -->
 <?php
 
-require_once 'includes/footer.php'
+require_once 'includes/footer.php';
 
 ?>

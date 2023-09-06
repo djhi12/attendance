@@ -1,7 +1,7 @@
 <!-- Header -->
 <?php
 $title = 'Success Page';
-require_once 'includes/header.php'
+require_once 'includes/header.php';
 
 ?>
 
@@ -14,7 +14,7 @@ require_once 'includes/header.php'
         <p>Specialty: <?php echo $_GET['specialty']; ?></p>
         <p>Date of Birth: <?php echo $_GET['dob']; ?></p>
         <p>Email: <?php echo $_GET['email']; ?></p>
-        <p>Contact: <?php echo $_GET['contact'] ?></p>
+        <p>Contact: <?php echo $_GET['contact']; ?></p>
     </div>
 
 </div>
@@ -23,6 +23,6 @@ require_once 'includes/header.php'
 <!-- Footer -->
 <?php
 
-require_once 'includes/footer.php'
+require_once 'includes/footer.php';
 
 ?>
