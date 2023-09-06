@@ -12,6 +12,7 @@
         <script src="https://code.jquery.com/ui/1.13.2/jquery-ui.js"></script>
         <link href="css/form.css" rel="stylesheet">
         <link href="css/index.css" rel="stylesheet">
+        <link href="css/success.css" rel="stylesheet">
     </head>
     </head>
 
