@@ -8,7 +8,13 @@ require_once 'includes/header.php'
 
 <!-- Main Content -->
 <div class="container">
-    <h1>Hello, world!</h1>
+    <h1>Registration for IT Conference</h1>
+
+    <!-- Form -->
+    <?php
+    require 'includes/form.php'
+
+    ?>
 </div>
 
 
